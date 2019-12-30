@@ -1,4 +1,4 @@
-https://mybinder.org/v2/gh/danny-moncada/UMN_day_of_data_2020/6f8aa52a150e71fc24966a91874b47f9b0e228f2
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danny-moncada/UMN_day_of_data_2020/master)
 
 
 # UMN_day_of_data_2020
