@@ -11,4 +11,4 @@ I developed this notebook/analysis as part of my final homework assignment for m
 
 The assignment was as follows: build and train three different versions of a neural network to perform a regression task.  Seems pretty simple right?  Well members of the audience, we are about to find out how <b>wrong</b> that assumption is.
 
-Notebook run time, start to finish, ~37 minutes.
+Notebook run time, start to finish, ~28 minutes.
