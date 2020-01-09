@@ -13,5 +13,5 @@ The assignment was as follows: build and train three different versions of a neu
 Notebook run time, start to finish, ~28 minutes.
 
 1.  Click on the Binder link and wait for the environment to be created (~ 5 minutes).
-2.  Open the <b>University_of_Minnesota_Day_of_Data_2020_Session_Participants.ipynb<b> Jupyter notebook file.
+2.  Open the <b>University_of_Minnesota_Day_of_Data_2020_Session_Participants.ipynb</b> Jupyter notebook file.
 3.  In the opened notebook file, go to "Kernel" -> "Restart & Run All"
