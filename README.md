@@ -14,8 +14,10 @@ Notebook run time, start to finish, ~28 minutes.
 
 1.  Click on the Binder link and wait for the environment to be created (~ 5 minutes).
 
-2.  Open the <b>University_of_Minnesota_Day_of_Data_2020_Session_Participants.ipynb</b> Jupyter notebook file.
+2.  Open the <b>University_of_Minnesota_Day_of_Data_2020_Session_Participants.ipynb</b> Jupyter notebook file.<br>
+
 ![Alt text](/screenshots/Step%202.png?raw=true "Optional Title")
 
-3.  In the opened notebook file, go to "Kernel" -> "Restart & Run All"
+3.  In the opened notebook file, go to "Kernel" -> "Restart & Run All"<br>
+
 ![Alt text](/screenshots/Step%203.png?raw=true "Optional Title")
