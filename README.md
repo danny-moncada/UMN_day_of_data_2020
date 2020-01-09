@@ -23,3 +23,5 @@ Notebook run time, start to finish, ~28 minutes.
 #### 3.  In the opened notebook file, go to "Kernel" -> "Restart & Run All"<br>
 
 ![Alt text](/screenshots/Step%203.png?raw=true "Optional Title")
+
+#### 4.  Let the neural nets run wild!
